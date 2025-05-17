@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rustem Demir</h1>
-<h3 align="center">I am Rustem Demir,I live in Switzerland and I am a frontend developer.I am working to improve my skills in creating modern websites.My goals are to utilize advanced technologies to create innovative and user-friendly solutions,and developing my own projects and contributing to the Open Source community.Developing projects always gives me pleasure.If you are interested in discussing projects and exploring collaboration opportunities, I would be happy to connect...</h3>
+<h3 align="center">I am Rustem,I live in Switzerland and I am a Frontend developer.I am working to improve my skills in creating modern websites.My goals are to utilize advanced technologies to create innovative and user-friendly solutions,and developing my own projects and contributing to the Open Source community.Developing projects always gives me pleasure.If you are interested in discussing projects and exploring collaboration opportunities, I would be happy to connect...</h3>
 
 - 🌱 I’m currently learning **React Frontend Development**
 
